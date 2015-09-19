@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\boolPractice\boolPractice\bin\Debug\boolPractice.exe.config
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\boolPractice\boolPractice\bin\Debug\boolPractice.exe
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\boolPractice\boolPractice\bin\Debug\boolPractice.pdb
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\boolPractice\boolPractice\obj\Debug\boolPractice.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\boolPractice\boolPractice\obj\Debug\boolPractice.exe
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\boolPractice\boolPractice\obj\Debug\boolPractice.pdb

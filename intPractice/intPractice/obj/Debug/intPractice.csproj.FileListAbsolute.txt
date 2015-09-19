@@ -1,0 +1,5 @@
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\intPractice\intPractice\bin\Debug\intPractice.exe.config
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\intPractice\intPractice\bin\Debug\intPractice.exe
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\intPractice\intPractice\bin\Debug\intPractice.pdb
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\intPractice\intPractice\obj\Debug\intPractice.exe
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\intPractice\intPractice\obj\Debug\intPractice.pdb

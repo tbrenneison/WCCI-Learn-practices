@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\simpleCalculator\bin\Debug\simpleCalculator.exe.config
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\simpleCalculator\bin\Debug\simpleCalculator.exe
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\simpleCalculator\bin\Debug\simpleCalculator.pdb
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\simpleCalculator\obj\Debug\simpleCalculator.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\simpleCalculator\obj\Debug\simpleCalculator.exe
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\simpleCalculator\obj\Debug\simpleCalculator.pdb

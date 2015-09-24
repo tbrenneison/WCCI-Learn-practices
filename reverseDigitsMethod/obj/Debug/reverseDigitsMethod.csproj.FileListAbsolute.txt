@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\reverseDigitsMethod\bin\Debug\reverseDigitsMethod.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\reverseDigitsMethod\bin\Debug\reverseDigitsMethod.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\reverseDigitsMethod\bin\Debug\reverseDigitsMethod.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\reverseDigitsMethod\obj\Debug\reverseDigitsMethod.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\reverseDigitsMethod\obj\Debug\reverseDigitsMethod.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\reverseDigitsMethod\obj\Debug\reverseDigitsMethod.pdb

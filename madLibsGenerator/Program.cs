@@ -27,7 +27,7 @@ namespace madLibsGenerator
             }
             else
             { return; }
-        }
+        } //end of againAndAgain method, do not lose this jerkface bracket either
 
  
         static string returnMadLib() //heavy lifting 
@@ -50,7 +50,7 @@ namespace madLibsGenerator
             madLib.Append(noun + " " + verb + " " + prepPhrase + ".");
             return madLib.ToString(); 
 
-        }//end of returnMadLib method, do not lose this jerkface bracket either 
+        }//again with the losing of jerkface brackets, don't do it
 
 
     }

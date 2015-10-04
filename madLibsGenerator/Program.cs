@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO; 
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,7 +21,7 @@ namespace madLibsGenerator
         static void againAndAgain() //recursive method to generate phrases as long as the user wants to
         {
             Console.WriteLine("Would you like to generate another phrase? Y/N");
-            if (Console.ReadLine() == "Y")
+            if (Console.ReadLine().ToUpper() == "Y")
             {
                 Console.WriteLine(returnMadLib());
                 againAndAgain();

@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\recordKeeping\bin\Debug\recordKeeping.exe.config
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\recordKeeping\bin\Debug\recordKeeping.exe
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\recordKeeping\bin\Debug\recordKeeping.pdb
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\recordKeeping\obj\Debug\recordKeeping.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\recordKeeping\obj\Debug\recordKeeping.exe
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\recordKeeping\obj\Debug\recordKeeping.pdb

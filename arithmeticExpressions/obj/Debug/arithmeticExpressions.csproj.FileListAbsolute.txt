@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\arithmeticExpressions\bin\Debug\arithmeticExpressions.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\arithmeticExpressions\bin\Debug\arithmeticExpressions.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\arithmeticExpressions\bin\Debug\arithmeticExpressions.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\arithmeticExpressions\obj\Debug\arithmeticExpressions.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\arithmeticExpressions\obj\Debug\arithmeticExpressions.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\arithmeticExpressions\obj\Debug\arithmeticExpressions.pdb
